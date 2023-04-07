@@ -1,0 +1,3 @@
+name: Creationmyth, the myth of the creator
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
